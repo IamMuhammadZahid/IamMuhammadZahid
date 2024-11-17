@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @IamMuhammadZahid
 - 💻 Software Engineer | Aspiring ASP.NETDeveloper
 - 🌱 Currently learning: ASP.NET
-- 🔧 Tech Stack: C#, .NET, BOOTSTRAP, HTML/CSS
+- 🔧 Tech Stack: C#, .NET, SQL, BOOTSTRAP, HTML/CSS, WORDPRESS
 - 🚀 Passionate about: Building scalable web applications, exploring new technologies, and solving complex problems.
 - 📫 How to reach me: mzahid1725@gmail.com | Linkedin: https://www.linkedin.com/in/mzahid1/
 
